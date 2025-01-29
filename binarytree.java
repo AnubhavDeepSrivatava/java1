@@ -25,6 +25,6 @@ public class binarytree {
         System.out.println(root.data);
         print(root.left);
 
-    }//rthyrtutydududtyyut
+    }//binarytree
     
 }
