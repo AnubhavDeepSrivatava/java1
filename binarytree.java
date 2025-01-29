@@ -28,4 +28,3 @@ public class binarytree {
     }
     
 }
-//BFS DFS PREORDER POSTORDER 
